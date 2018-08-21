@@ -84,6 +84,9 @@ Julia is now being used in several universities and online courses. If you know 
 
 - Northeastern University, Fall 2016 <!--42.34255795,-71.0905490240477-->
   * MTH3300: Applied Probability & Statistics
+  
+- Norwegian University of Science and Technology (NTNU)
+  * [TDT4120](https://www.ntnu.edu/studies/courses/TDT4120#tab=omEmnet), Algorithms and Data Structures (Prof. Magnus Lie Hetland), Fall 2018
 
 - [Óbuda University](https://www.uni-obuda.hu), [John von Neumann Faculty of Informatics, Institute of Applied Mathematics](http://nik.uni-obuda.hu) <!--47.53837475,19.0333089565642-->
   * [Intelligent Development Tools (Hungarian)]
